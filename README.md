@@ -68,5 +68,6 @@ Feito Por Vitor Perez
 [![Hotmail Badge](https://img.shields.io/badge/-Hotmail-0078D4?style=flat-square&amp;logo=microsoft-outlook&amp;logoColor=white&amp;link=mailto:perez.vitor@outlook.com)](mailto:perez.vitor@outlook.com)
 
 <hr/>
+
 ## :memo: License
 [LICENSE](https://github.com/PerezVitor/Todo_App/blob/main/LICENSE) for more information.
